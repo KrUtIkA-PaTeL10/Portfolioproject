@@ -1,0 +1,27 @@
+```markdown
+# Covid-19 Data Exploration Project Documentation
+
+## Overview
+This project involves an in-depth exploration of Covid-19 data, utilizing various SQL techniques such as joins, common table expressions (CTEs), temporary tables, window functions, aggregate functions, and creating views. The aim is to analyze and derive insights from Covid-19 data regarding infection rates, death rates, vaccination progress, and population demographics.
+
+## Project Structure
+- **Data Selection and Sorting**: Initial data selection is performed, ensuring data integrity by sorting based on continent to avoid confusion.
+- **Likelihood of Death Analysis**: The project begins by analyzing the likelihood of death if contracting Covid-19 in specific countries such as India and Canada.
+- **Population Infection Percentage**: This section calculates the percentage of the population infected with Covid-19.
+- **Countries with Highest Infection Rates**: Identifies countries with the highest infection rates compared to their population.
+- **Highest Death Count per Population**: Determines countries with the highest death counts per population.
+- **Continent Analysis**: Analyzes continents with the highest death counts per population.
+- **Global Covid-19 Statistics**: Calculates global Covid-19 statistics, including total cases, total deaths, and death percentages.
+- **Comparison of Population vs. Vaccinations**: Compares total population vs. vaccinations administered to determine the percentage of the population vaccinated.
+- **Using CTEs and Temp Tables**: Demonstrates the use of common table expressions (CTEs) and temporary tables for complex calculations.
+- **Creating Views for Visualization**: Creates a view to store data for later visualization purposes.
+
+## Skills Utilized
+- SQL Skills: Joins, CTEs, Temp Tables, Window Functions, Aggregate Functions, Creating Views
+- Data Manipulation: Converting Data Types, Sorting, Filtering
+- Statistical Analysis: Calculating Percentages, Aggregating Data
+- Database Management: Creating Views, Handling Temporary Data
+
+## Conclusion
+This Covid-19 data exploration project provides valuable insights into the global pandemic's impact, including infection rates, death rates, and vaccination progress. By leveraging SQL skills and various techniques, stakeholders can make informed decisions and strategies to combat the spread of Covid-19 effectively.
+```
